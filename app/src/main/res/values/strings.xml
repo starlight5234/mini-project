@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Upastithi</string>
+    <string name="login_as_student">Login as Student</string>
+    <string name="welcome">WELCOME</string>
+    <string name="login_as_teacher">Login as Teacher</string>
+    <string name="good_greet">Good Morning 👋</string>
+    <string name="teacher_card1_text">Loading Teacher info…</string>
+    <string name="teacher_card2_text">Record attendance</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="subject">Subject</string>
+    <string name="lecture_time">Lecture Start Time</string>
+    <string name="lecture_type">Lecture Type</string>
+    <string name="year">Year</string>
+    <string name="classSelection">Class</string>
+    <string name="code">Code</string>
+    <string name="record_attendance">Mark Attendance</string>
+    <string name="to_do">To-Do</string>
+    <string name="logout_confirmation_message">Do you want to log out of the account?</string>
+    <string name="logout_title">Sign Out?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="student_card1_text">Loading Student info…</string>
+    <string name="student_card2_text">Mark Attendance</string>
+    <string name="student_card3_text">Loading attendance information…</string>
+    <string name="to_do_card_3">To Do Card 3</string>
+    <string name="mark_attendance">Mark Attendance</string>
+    <string name="batch">Batch</string>
+    <string name="throwable_exception">Could not retrieve data from server, could be that your internet is not working or the server is down.</string>
+    <string name="exception_occurred">Something Went Wrong</string>
+    <string name="student_greet">Welcome Student 👋</string>
+</resources>

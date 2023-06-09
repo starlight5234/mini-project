@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- set to true to allow HTTP request instead of HTTPS   -->
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system">
+            </certificates>
+        </trust-anchors>
+    </base-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">https://dazzling-fire-33613.pktriot.net:80</domain>
+        <domain includeSubdomains="true">https://192.168.0.103:80</domain>
+    </domain-config>
+</network-security-config>

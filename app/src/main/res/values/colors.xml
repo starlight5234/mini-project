@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="colorAccent">@color/nordFrost</color>
+    <color name="colorFadedYellow">#F1F1DF</color>
+    <color name="colorDarkYellow">#FFB20A</color>
+    <color name="colorLime">#8BC34A</color>
+    <color name="colorButton">@color/colorDarkYellow</color>
+<!--    <color name="colorButton">@color/colorLime</color>-->
+
+    <color name="nordDark">#2E3440</color>
+    <color name="nordLight">#E5E9F0</color>
+    <color name="nordFrost">#81A1C1</color>
+    <color name="nordRed">#BF616A</color>
+    <color name="nordOrange">#D08770</color>
+    <color name="nordYellow">#EBCB8B</color>
+    <color name="nordGreen">#A3BE8C</color>
+    <color name="nordPink">#B48EAD</color>
+</resources>

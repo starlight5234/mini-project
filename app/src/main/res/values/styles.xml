@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!--Set background for default android 12 Splash-->
+        <item name="android:windowBackground">@color/colorAccent</item>
+        <item name="android:windowBackgroundFallback">@color/colorAccent</item>
+
+        <!--Set color of status bar for card types activities-->
+        <item name="android:statusBarColor">@color/colorAccent</item>
+        <item name="android:navigationBarColor">@color/nordDark</item>
+
+        <!--Set animation between activities-->
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowEnterTransition">@android:transition/slide_bottom</item>
+        <item name="android:windowExitTransition">@android:transition/slide_top</item>
+        <item name="android:windowAllowReturnTransitionOverlap">false</item>
+        <item name="android:windowAllowEnterTransitionOverlap">false</item>
+
+        <item name="android:colorControlActivated">@color/nordRed</item>
+    </style>
+
+    <!--To Theme mark attendance form-->
+    <style name="DropDownTheme" parent="Theme.MaterialComponents.Light">
+        <item name="android:textColorHint">@color/nordDark</item>
+        <item name="android:textColor">@color/nordDark</item>
+    </style>
+</resources>
